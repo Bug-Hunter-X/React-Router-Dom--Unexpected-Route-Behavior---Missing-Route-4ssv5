@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in React Router Dom v6 where a missing route for a specific path can lead to unexpected rendering behavior.  The bug.js file showcases the problem:  navigating to '/contact' results in the default route (or no rendering at all) instead of showing an error or redirect.  The bugSolution.js file provides a solution.
